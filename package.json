@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Tillers Test Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!licens"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tillerni/drdkbot"
+  },
+  "keywords": [
+    "tillerni"
+  ],
+  "author": "Tillerni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tillerni/drdkbot"
+  },
+  "homepage": "https://github.com/Tillerni/drdkbot#README"
+}
