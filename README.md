@@ -1,37 +1,13 @@
-# Sloppiers-heroku-discord-bot
+# Måske lidt satire, måske ikke.. Det bestemmer du
 
-A barebones Node.js bot using [discord.js](https://github.com/hydrabolt/discord.js/).
+Hele lortet er skrevet i Node.js og gør brug af [discord.js](https://github.com/hydrabolt/discord.js/).
+Skal være ærlig at sige at for at få lortet til at virke med Heroku tog jeg en [andens projekt](https://elements.heroku.com/buttons/sloppierkitty7/sloppiers-heroku-discord-bot), slettede alt indholdet i hans index fil og lavede den her bot ud fra hans tomme filer.
 
-## Running Locally
+## Kommandoer
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
+* !about giver en liste over alle kommandoer.
+* !licens minder alle i samme #channel om at betale DR licens.
+* !botcode giver en lidt mere teknisk forklaring af hvordan botten fungerer.
+* Ved at nævne specifikke brugere i chatten vil botten reagere med passende tekst.
 
-```sh
-git git@github.com:SloppierKitty7/Sloppiers-heroku-discord-bot.git # or clone your own fork
-cd Sloppiers-heroku-discord-bot
-npm install
-npm start
-```
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
-
-```
-heroku create
-git push heroku master
-heroku open
-```
-
-Alternatively, you can deploy your own copy of the app using the web-based flow:
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-## Documentation
-
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [10 Habits of a Happy Node Hacker](https://blog.heroku.com/archives/2014/3/11/node-habits)
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+Botten er skrevet af Tillerni og idéen er af Kayseth.
