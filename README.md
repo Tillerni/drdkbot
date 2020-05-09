@@ -1,7 +1,7 @@
 # Måske lidt satire, måske ikke.. Det bestemmer du
 
 Hele lortet er skrevet i Node.js og gør brug af [discord.js](https://github.com/hydrabolt/discord.js/).
-Skal være ærlig at sige at for at få lortet til at virke med Heroku tog jeg en [andens projekt](https://elements.heroku.com/buttons/sloppierkitty7/sloppiers-heroku-discord-bot), slettede alt indholdet i hans index fil og lavede den her bot ud fra hans tomme filer.
+Skal være ærlig at sige at for at få lortet til at virke med Heroku tog jeg en [andens projekt](https://elements.heroku.com/buttons/sloppierkitty7/sloppiers-heroku-discord-bot), slettede alt indholdet i deres index fil og lavede den her bot ud fra deres tomme filer.
 
 ## Kommandoer
 
